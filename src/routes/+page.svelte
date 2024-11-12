@@ -123,7 +123,7 @@
                         <img src="\oskar.png" alt="team meber 1" class="m-4 drop-shadow-xl rounded">
                         <p class="text-dark-300 font-bold">Oskar Meyer</p>
                         <p class="text-dark-300">+46 70 383 7424</p> 
-                        <p class="text-dark-300">oskmey@chalmers.se</p>
+                        <p class="text-dark-300">oskarme@chalmers.se</p>
                     </div>
                 {:else}
                     <div class="py-[544px]"></div>
